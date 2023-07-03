@@ -16,7 +16,7 @@ Hagh-Charter is a travel booking app that allows users to buy travel tickets (in
 
 - Flutter for mobile app development
 - Dart programming language
-- Java for Backend
+- Java for Companies App
 
 ## Screenshots
 
